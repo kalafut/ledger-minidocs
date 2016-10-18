@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
-<div class="contents">
-
 *   [1 Introduction to Ledger](#Introduction-to-Ledger)  
     *   [1.1 Fat-free Accounting](#Fat_002dfree-Accounting)
     *   [1.2 Building the program](#Building-the-program)
@@ -214,8 +212,6 @@
         *   [B.1.2 Ledger Files](#Ledger-Files)
 *   [Concepts Index](#Concepts-Index)
 *   [Commands & Options Index](#Commands-_0026-Options-Index)
-
-</div>
 
 <a name="Top"></a>
 
